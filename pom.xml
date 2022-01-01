@@ -103,13 +103,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.133.91.199:8081/repository/rbc-releases/</url>
+	      <url>http://3.17.145.125:8081/repository/project-bts-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.133.91.199:8081/repository/rbc-snapshot/</url>
+	      <url>http://3.17.145.125:8081/repository/project-bts-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
