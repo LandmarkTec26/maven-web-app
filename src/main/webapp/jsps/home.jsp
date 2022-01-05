@@ -13,7 +13,7 @@
 <h2 align="center"> Welcome to Landmark Technology. 
 	Landmark Technology is a an ideal online training  platform for DevOps and Cloud Engineers. 
 	We offer interview preparations and job assitance. Devops is good.
-	The shout of the King is in our midst. His name is JESUS JESUS.  HE IS OUR SUCCESS ACCESS KEY. Senior Devops Engineer Joshua Ayeni</h2>
+	The shout of the King is in our midst. His name is JESUS JESUS.  HE IS OUR SUCCESS ACCESS KEY. Senior Devops Engineer Joshua</h2>
 <hr>
 <div style="text-align: center;">
 	<span>
