@@ -13,7 +13,7 @@
 <h2 align="center"> Welcome to Landmark Technology. 
 	Landmark Technology is a an ideal online training  platform for DevOps and Cloud Engineers. 
 	We offer interview preparations and job assitance. Devops is good, Joshua Ayeni is now a Senior Devops Engineer.
-	The shout of the King is in our midst. His name is JESUS JESUS.  HE IS OUR SUCCESS ACCESS KEY. I'm a Devops Engineer with Global Impact. God Crown my efforts</h2>
+	The shout of the King is in our midst. His name is JESUS JESUS.  HE IS OUR SUCCESS ACCESS KEY. Joshua Ayeni is a Devops Engineer</h2>
 <hr>
 <div style="text-align: center;">
 	<span>
